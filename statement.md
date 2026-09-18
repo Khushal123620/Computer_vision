@@ -4,8 +4,8 @@
 
 ## Document Scanner Using OCR
 
-**Name:** Mohit Poonia  
-**Registration No.:** 24BAI10966  
+**Name:** khushal mahajan  
+**Registration No.:** 24MIM10014  
 **Domain:** Computer Vision
 
 ## Problem Statement
@@ -80,7 +80,7 @@ Document Scanner Using OCR demonstrates how image processing and OCR can be comb
 
 Declaration
 
-I, Mohit Poonia, Registration No. 24BAI10966, submit this project as an academic Computer Vision project titled Document Scanner Using OCR.
+I,Name:khushal mahajan Registration No.: 24MIM10014 , submit this project as an academic Computer Vision project titled Document Scanner Using OCR.
 
-Name: Mohit Poonia
-Registration No.: 24BAI10966
+Name: khushal mahajan
+Registration No.: 24MIM10014
